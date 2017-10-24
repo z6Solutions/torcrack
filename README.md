@@ -1,16 +1,16 @@
 # torcrack
 
-A simple Tor enabled, multi-process SSH dictionary attack in Python3.
+[A simple Tor enabled, multi-process SSH dictionary attack in Python3.]
 
 # requirements
 
-argparse
+-argparse
 
-PySocks
+-PySocks
 
-Paramiko
+-Paramiko
 
-tor
+-tor
 
 # installation
 
@@ -30,4 +30,4 @@ python3 torcrack.py -h for commands
 
 # to do:
 
-try to reduce SSH Banner errors with a higher number of parallel processes
+-try to reduce SSH Banner errors with a higher number of parallel processes
